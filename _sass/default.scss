@@ -1,4 +1,5 @@
 body { font-family: Mate; margin: 0; padding: 0; }
-h2 { font-family: "Open Sans"; }
+h2, h3 { font-family: "Open Sans"; }
+h3 { margin: 0; padding: 1em 0; }
 .about { background-color: #336699; display: block; padding: 20px; text-align: center; color: #fff; }
-.content { background-color: #f6f6f6; color: #333; }
+.content { background-color: #f6f6f6; color: #333; padding: 20px; }
