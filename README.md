@@ -1,11 +1,6 @@
 # BasicTheme
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
-
-To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
-
-TODO: Delete this and the text above, and describe your gem
-
+The purpose of this Jekyll theme called BasicTheme is to inspire others by providing an overview on creating your very first theme. You can learn more about creating your first theme by visiting my blog post at https://jasong.us/35luIer.
 
 ## Installation
 
@@ -31,11 +26,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
+In addition, since this is hosted on GitHub, you can use this as a Remote Theme as explained at https://jasong.us/35luIer
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jasongaylord/BasicTheme/. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 
@@ -49,4 +44,3 @@ To add a custom directory to your theme-gem, please edit the regexp in `BasicThe
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
